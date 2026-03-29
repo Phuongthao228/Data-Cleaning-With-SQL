@@ -7,3 +7,4 @@
 - Convert incorrect data types
 - Remove duplicate records
 ## Data_used
+- <a href="https://github.com/Phuongthao228/Data-Cleaning-With-SQL/blob/main/customer_orders.csv">Dataset</a>
